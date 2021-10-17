@@ -37,6 +37,8 @@ dependencies:
 
   #qrscan: ^0.2.17
   qr_code_scanner: ^0.5.2
+  flutter_number_picker: ^1.0.4
+  image_picker: ^0.8.0+4
 
 dev_dependencies:
   flutter_test:
